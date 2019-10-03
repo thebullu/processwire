@@ -1,0 +1,23 @@
+2019-08-14 11:31:25	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-08-15 23:20:55	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2019-08-15 23:21:06	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-08-17 07:11:42	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-17 02:26:30	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-09-17 02:26:51	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-17 02:27:41	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2019-09-18 02:55:40	admin	http://127.0.0.1/procwire/admin123/login/logout/	Logout for 'admin'
+2019-09-18 02:55:50	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-20 06:01:50	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-09-20 06:02:57	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-21 05:14:41	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-23 03:15:06	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-09-23 03:19:36	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-25 02:18:45	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-09-25 02:19:51	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-09-25 02:22:05	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2019-09-26 04:28:59	admin	http://127.0.0.1/procwire/admin123/login/logout/	Logout for 'admin'
+2019-09-26 04:29:09	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-10-01 03:38:29	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-10-01 03:38:48	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
+2019-10-03 03:26:23	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-10-03 03:26:40	admin	http://127.0.0.1/procwire/admin123/login/	Successful login for 'admin'
